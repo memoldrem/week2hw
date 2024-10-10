@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center; 
+    margin: 0;
+    padding: 0;
+    background-color: #D2D6EF;
+}
+
+.center{
+    font-size: 28px;
+    color: #104547;
+}
+
+h1.title {
+    font-size: 45px;
+    color: #104547;
+    margin-bottom: 20px;
+}
+
+.center {
+    margin-bottom: 20px;
+}
+
+
+.content {
+    margin: 20px 0;
+}
+
+.links {
+    margin-top: 20px;
+}
+
+.links a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #89A6FB;
+    font-weight: bold;
+}
+
+.links a:hover {
+    text-decoration: underline;
+}
+
+h3.sub {
+    color: #AF929D;
+}
+
+h4.reach {
+    color: #104547;
+}
+
