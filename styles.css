@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Monospace, Monaco;
     text-align: center; 
     margin: 0;
     padding: 0;
@@ -9,20 +9,20 @@ body {
 .center{
     font-size: 28px;
     color: #104547;
+    margin-bottom: 20px;
 }
+
 
 h1.title {
     font-size: 45px;
     color: #104547;
     margin-bottom: 20px;
 }
-
-.center {
-    margin-bottom: 20px;
-}
+  
 
 .content {
     margin: 20px 0;
+ 
 }
 
 .links {
@@ -38,6 +38,13 @@ h1.title {
 
 .links a:hover {
     text-decoration: underline;
+
+}
+
+.link_org {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 h3.sub {
@@ -46,5 +53,9 @@ h3.sub {
 
 h4.reach {
     color: #104547;
+    display: flex;
+    justify-content: center;
 }
+
+
 
